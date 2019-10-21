@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571265648057, "host": "smtp.dol", "startTime": 1571265647975, "engineVersion": "1.36.2", "cacheExpiryTime": 1571265708057, "port": 443, "statusMessage": "Unable to resolve domain name"}

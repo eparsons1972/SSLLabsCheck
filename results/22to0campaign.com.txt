@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571265621585, "host": "22to0campaign.com", "startTime": 1571265621340, "engineVersion": "1.36.2", "cacheExpiryTime": 1571265681585, "port": 443, "statusMessage": "Unable to resolve domain name"}

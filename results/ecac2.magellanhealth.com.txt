@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571272100564, "host": "ecac2.magellanhealth.com", "startTime": 1571272100278, "engineVersion": "1.36.2", "cacheExpiryTime": 1571272160564, "port": 443, "statusMessage": "Unable to resolve domain name"}

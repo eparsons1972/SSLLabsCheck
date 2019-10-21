@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571276701794, "host": "hjahc.cobaltcbt.com", "startTime": 1571276701509, "engineVersion": "1.36.2", "cacheExpiryTime": 1571276761794, "port": 443, "statusMessage": "Unable to resolve domain name"}

@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571264981353, "host": "www.cbt4ghp.com", "startTime": 1571264981098, "engineVersion": "1.36.2", "cacheExpiryTime": 1571265041353, "port": 443, "statusMessage": "Unable to resolve domain name"}

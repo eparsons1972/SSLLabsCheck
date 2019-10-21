@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571264584791, "host": "www.mccarizona.com", "startTime": 1571264580281, "engineVersion": "1.36.2", "cacheExpiryTime": 1571264644791, "port": 443, "statusMessage": "Unable to resolve domain name"}

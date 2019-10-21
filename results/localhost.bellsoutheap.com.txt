@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571270688736, "host": "localhost.bellsoutheap.com", "startTime": 1571270688663, "engineVersion": "1.36.2", "cacheExpiryTime": 1571270748736, "port": 443, "statusMessage": "Unable to resolve domain name"}

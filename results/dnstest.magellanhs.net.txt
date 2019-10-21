@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571276604915, "host": "dnstest.magellanhs.net", "startTime": 1571276604470, "engineVersion": "1.36.2", "cacheExpiryTime": 1571276664915, "port": 443, "statusMessage": "Unable to resolve domain name"}

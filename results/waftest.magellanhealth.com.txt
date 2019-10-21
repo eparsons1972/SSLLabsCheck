@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571274655052, "host": "waftest.magellanhealth.com", "startTime": 1571274654903, "engineVersion": "1.36.2", "cacheExpiryTime": 1571274715052, "port": 443, "statusMessage": "Unable to resolve domain name"}

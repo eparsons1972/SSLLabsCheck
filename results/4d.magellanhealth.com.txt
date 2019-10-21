@@ -1,1 +1,0 @@
-{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571270100869, "host": "4d.magellanhealth.com", "startTime": 1571270100682, "engineVersion": "1.36.2", "cacheExpiryTime": 1571270160869, "port": 443, "statusMessage": "Unable to resolve domain name"}
