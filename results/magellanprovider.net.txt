@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571263487423, "host": "magellanprovider.net", "startTime": 1571263485073, "engineVersion": "1.36.2", "cacheExpiryTime": 1571263547423, "port": 443, "statusMessage": "Unable to resolve domain name"}

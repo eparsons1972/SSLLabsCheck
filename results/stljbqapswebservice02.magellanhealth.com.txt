@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571412046413, "host": "stljbqapswebservice02.magellanhealth.com", "startTime": 1571412046232, "engineVersion": "1.36.2", "cacheExpiryTime": 1571412106413, "port": 443, "statusMessage": "Unable to resolve domain name"}

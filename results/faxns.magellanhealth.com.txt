@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571263286244, "host": "faxns.magellanhealth.com", "startTime": 1571263285988, "engineVersion": "1.36.2", "cacheExpiryTime": 1571263346244, "port": 443, "statusMessage": "Unable to resolve domain name"}

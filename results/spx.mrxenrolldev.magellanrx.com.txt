@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571381984449, "host": "spx.mrxenrolldev.magellanrx.com", "startTime": 1571381984190, "engineVersion": "1.36.2", "cacheExpiryTime": 1571382044449, "port": 443, "statusMessage": "Unable to resolve domain name"}

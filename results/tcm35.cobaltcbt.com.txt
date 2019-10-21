@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571272088681, "host": "tcm35.cobaltcbt.com", "startTime": 1571272088393, "engineVersion": "1.36.2", "cacheExpiryTime": 1571272148681, "port": 443, "statusMessage": "Unable to resolve domain name"}

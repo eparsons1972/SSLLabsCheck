@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571274837433, "host": "www.magellancompletecareofarizona.com", "startTime": 1571274829016, "engineVersion": "1.36.2", "cacheExpiryTime": 1571274897433, "port": 443, "statusMessage": "Unable to resolve domain name"}

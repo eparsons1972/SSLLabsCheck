@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571267212433, "host": "eeworklifeassistance.org", "startTime": 1571267212324, "engineVersion": "1.36.2", "cacheExpiryTime": 1571267272433, "port": 443, "statusMessage": "Unable to resolve domain name"}

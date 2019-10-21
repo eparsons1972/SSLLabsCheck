@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571381806955, "host": "stlmogtm02.wip.magellanassist.com", "startTime": 1571381806652, "engineVersion": "1.36.2", "cacheExpiryTime": 1571381866955, "port": 443, "statusMessage": "Unable to resolve domain name"}

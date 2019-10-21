@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571270220381, "host": "chemed.ontobetterhealth.com", "startTime": 1571270220017, "engineVersion": "1.36.2", "cacheExpiryTime": 1571270280381, "port": 443, "statusMessage": "Unable to resolve domain name"}

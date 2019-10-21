@@ -1,0 +1,1 @@
+{"status": "ERROR", "protocol": "HTTP", "criteriaVersion": "2009q", "isPublic": false, "testTime": 1571265143417, "host": "azmagellancompletecare.com", "startTime": 1571265138857, "engineVersion": "1.36.2", "cacheExpiryTime": 1571265203417, "port": 443, "statusMessage": "Unable to resolve domain name"}
