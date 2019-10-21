@@ -613,7 +613,7 @@ def runscan(q):
 							#print "Dom is " + mydata.dom
 							if mydata.host == mydata.dom:
 								jobtrack[mydata.host] = mydata.response.body['status']
-								mydata.fo = open("results/"+mydata.host+".txt", "wb")
+								mydata.fo = open("LocalConfig/results/"+mydata.host+".txt", "wb")
 								#mydata.fo.write(mydata.response.raw_body);
 								json.dump(mydata.response.body,mydata.fo)
 								# Close opend file
@@ -637,7 +637,7 @@ def runscan(q):
 				try:
 					if 'errors' in mydata.response.body:
 						jobtrack[mydata.dom] = mydata.response.body['status']
-						mydata.fo = open("results/"+mydata.dom+".txt", "wb")
+						mydata.fo = open("LocalConfig/results/"+mydata.dom+".txt", "wb")
 						json.dump(mydata.response.body,mydata.fo)
 						mydata.fo.close()
 						q.task_done()
@@ -673,7 +673,7 @@ csvw.writerow(['Input_URL', 'Domain','IP','Common Name','Source','Date Added','P
 for app in mainapps:
 	try:
 		curdom = parsetodomain(app)
-		resfile = open("results/"+curdom+".txt", "r")
+		resfile = open("LocalConfig/results/"+curdom+".txt", "r")
 		jsonresults = json.load(resfile)
 		resfile.close()
 		row = parseresults(jsonresults,app,jobtrack[curdom])
